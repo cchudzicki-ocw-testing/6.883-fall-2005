@@ -60,7 +60,7 @@ group members
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Javarifier: Inferring Reference Immutability for Java® ({{< resource_link e0cdb8c7-dda2-b85b-3ae3-77bf45cc1bbb "PDF" >}})
+Javarifier: Inferring Reference Immutability for Java® ({{% resource_link e0cdb8c7-dda2-b85b-3ae3-77bf45cc1bbb "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Matthew Tschantz, Chen Xiao, and Vineet Sinha
@@ -69,7 +69,7 @@ Matthew Tschantz, Chen Xiao, and Vineet Sinha
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Automated Test-case Generation with SAT ({{< resource_link 520791ae-3d97-7103-9f39-53ac50e5ffd0 "PDF" >}})
+Automated Test-case Generation with SAT ({{% resource_link 520791ae-3d97-7103-9f39-53ac50e5ffd0 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Greg Dennis and Robert Seater
@@ -78,7 +78,7 @@ Greg Dennis and Robert Seater
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Annotation-less Unit Type Inference for C (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link b068226d-bde9-32a8-42bb-87bccf8b7ee3 "PDF" >}})
+Annotation-less Unit Type Inference for C (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link b068226d-bde9-32a8-42bb-87bccf8b7ee3 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Philip Guo and Stephen McCamant
@@ -87,7 +87,7 @@ Philip Guo and Stephen McCamant
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Safe Test Case Reduction ({{< resource_link 90bc3e21-0a22-f16a-d95c-d83864952878 "PDF" >}})
+Safe Test Case Reduction ({{% resource_link 90bc3e21-0a22-f16a-d95c-d83864952878 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Brad Howes and Anonymous
@@ -96,7 +96,7 @@ Brad Howes and Anonymous
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Automatic Generation of Unit Regression Tests ({{< resource_link 7803dd4d-e903-0c6e-9774-651041871734 "PDF" >}})
+Automatic Generation of Unit Regression Tests ({{% resource_link 7803dd4d-e903-0c6e-9774-651041871734 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Shay Artzi, Adam Kiezun, Carlos Pacheco, and Jeff Perkins
