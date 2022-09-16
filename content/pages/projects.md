@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This projects section provides description and timetable along with student
+  final reports for the final project.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -78,7 +80,7 @@ Greg Dennis and Robert Seater
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Annotation-less Unit Type Inference for C (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link b068226d-bde9-32a8-42bb-87bccf8b7ee3 "PDF" %}})
+Annotation-less Unit Type Inference for C ({{% resource_link b068226d-bde9-32a8-42bb-87bccf8b7ee3 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Philip Guo and Stephen McCamant
